@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine's Zelensky to meet Sunak and address MPs in surprise UK visit",
+      "description": "President Volodymyr Zelensky will see Ukrainian troops being trained, in his first UK trip since Russian invaded his country.",
+      "url": "http://www.bbc.co.uk/news/live/uk-politics-64566762",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2023-02-08T10:22:33.897052Z",
+      "content": "Today will mark President Zelensky's third official visit since Ukraine was invaded the first being his trip to the US just before Christmas and the second to Poland (which he did on the way home fro… [+562 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "President Zelensky in first UK visit since invasion of Ukraine",
+      "description": "The Ukrainian leader will meet PM Rishi Sunak and make a speech in Parliament, Downing Street says.",
+      "url": "http://www.bbc.co.uk/news/uk-politics-64566248",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4016/production/_128560461_presidentgetty.jpg",
+      "publishedAt": "2023-02-08T09:07:19.5502122Z",
+      "content": "Ukrainian President Volodymyr Zelensky will arrive in the UK today, in his first visit since Russia's invasion of Ukraine last year.\r\nDowning Street said he would be holding meetings with Prime Minis… [+538 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "A secret room that saved this girl's life",
+      "description": "Behind the sale of a masterpiece painting is the story of a Jewish girl's extraordinary escape from the Nazis.",
+      "url": "http://www.bbc.co.uk/news/world-europe-64513310",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14B5/production/_128510350_dolly-index1-sothebys.jpg",
+      "publishedAt": "2023-02-08T07:52:21.4735358Z",
+      "content": "A major work by Russian painter Wassily Kandinsky could fetch a record price at auction in London in a few weeks. But behind the sale is one family's story of tragedy and heroism, all laid out in an … [+9511 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC Sport",
+      "title": "James breaks NBA all-time scoring record",
+      "description": "LeBron James becomes the NBA's all-time leading scorer, passing Kareem Abdul-Jabbar's 39-year-old record.",
+      "url": "http://www.bbc.co.uk/sport/basketball/64563131",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/11787/production/_124395517_bbcbreakingnewsgraphic.jpg",
+      "publishedAt": "2023-02-08T06:37:28.6152056Z",
+      "content": "LeBron James has become the NBA's all-time leading scorer, passing Kareem Abdul-Jabbar's 39-year-old record.\r\nLos Angeles Lakers star James, 38, hit 38 points in a 133-130 defeat by Oklahoma City Thu… [+263 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US-China trade hits record high despite rising tensions",
+      "description": "Imports and exports between the world's two biggest economies totalled more than $690bn last year.",
+      "url": "http://www.bbc.co.uk/news/business-64563855",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2C15/production/_128558211_gettyimages-1148843004.jpg",
+      "publishedAt": "2023-02-08T06:07:36.9891883Z",
+      "content": "Trade between the US and China hit a record high last year even as their diplomatic relations reach new lows.\r\nImports and exports between the two countries totalled $690.6bn (£572.6bn) in 2022, offi… [+2562 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US sources insist Chinese balloon was military",
+      "description": "US intelligence sources tell media the balloon was spying on US and allied defence capabilities.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64564549",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0591/production/_128552410_balloon3.jpg",
+      "publishedAt": "2023-02-08T06:07:25.3008154Z",
+      "content": "US intelligence sources have insisted the balloon shot down on Saturday was used by the Chinese military for spying.\r\nUnnamed officials told the Washington Post they believed such balloons were used … [+2423 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Harry and Meghan to be questioned in Samantha Markle defamation suit",
+      "description": "The duchess's half-sister says Meghan \"falsely and maliciously\" said she was \"an only child\".",
+      "url": "http://www.bbc.co.uk/news/uk-64564219",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11481/production/_128558707_35934ecb6b0367dfb8c5a79a38df45a153052bf1.jpg",
+      "publishedAt": "2023-02-08T05:52:19.0672636Z",
+      "content": "The Duke and Duchess of Sussex will be questioned as part of a US defamation case brought by Meghan's half-sister. \r\nThis comes after a motion to stop depositions in the civil suit from taking place … [+2992 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Fawlty Towers: John Cleese to revive series with daughter",
+      "description": "John Cleese will write and star in the revival alongside his daughter Camilla Cleese.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-64563839",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6673/production/_112872262_hi000424723.jpg",
+      "publishedAt": "2023-02-08T03:52:20.5503742Z",
+      "content": "Comedy series Fawlty Towers is set to be revived after more than 40 years. \r\nJohn Cleese, who played Basil Fawlty, will be returning to write and star alongside his daughter Camilla Cleese. \r\nThe two… [+2814 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Turkey earthquake: Clock ticking for rescuers as quake toll nears 8,000",
+      "description": "Desperate searches continue for people missing under rubble in southern Turkey and northern Syria.",
+      "url": "http://www.bbc.co.uk/news/live/64533954",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2023-02-08T00:22:24.5042212Z",
+      "content": "Two members of the Syrian Red Crescent NGO watch rescue workers in Aleppo, a city largely controlled by the Syrian government.Image caption: Two members of the Syrian Red Crescent NGO watch rescue wo… [+1527 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Oscars: Danielle Deadwyler claims Hollywood is 'deeply impacted by racism'",
+      "description": "Danielle Deadwyler and Viola Davis were tipped to be nominated for best actress, but missed out.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-64557717",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/138B7/production/_128555008_deadwgettyimages-1433651183.jpg",
+      "publishedAt": "2023-02-07T19:22:21.4722041Z",
+      "content": "US actress Danielle Deadwyler has claimed the film industry is \"deeply impacted by systemic racism\", after no black women were nominated for best actress at this year's Oscars.\r\nDeadwyler was expecte… [+3618 chars]"
+    }
+  ]
+}
